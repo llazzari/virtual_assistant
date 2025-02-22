@@ -1,0 +1,16 @@
+[project]
+name = "virtual-assistant"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "gtts>=2.5.4",
+    "ipykernel>=6.29.5",
+    "playsound==1.2.2",
+    "pyaudio>=0.2.14",
+    "pysound>=0.2",
+    "ruff>=0.9.7",
+    "speechrecognition>=3.14.1",
+    "wikipedia>=1.4.0",
+]

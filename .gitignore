@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+myenv/
+
+bin/
+lib/
+portaudio/
+src/
+.python-version
+bin-stamp
+config.log
+config.status
+lib-stamp
+libtool
+Makefile
+pa_stable_v190700_20210406.tgz
+portaudio-2.0.pc
+virtual_assistant.py
